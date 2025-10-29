@@ -101,7 +101,7 @@ function grab_html(param, label="None") {
         setTimeout(function() {window.location = "error.html"}, 450)
         window.location = "./" + new_filename;
     } else {
-        if ( param == "NRHybSur3dq8_lal" ) {
+        if ( param == "NRHybSur3dq8" ) {
             approx = "None" 
         }
  

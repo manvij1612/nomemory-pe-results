@@ -104,6 +104,9 @@ function grab_html(param, label="None") {
         if ( param == "NRHybSur3dq8" ) {
             approx = "None" 
         }
+        if ( param == "GWSurr" ) {
+            approx = "None" 
+        }
  
         if ( approx == "Comparison" && param == "Comparison" ) {
             approx = "None"
