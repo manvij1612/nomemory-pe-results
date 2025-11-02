@@ -11,5 +11,5 @@ conda activate /home/mjain2_umassd_edu/miniforge3/envs/igwn-py310
 summarypages \
   --webdir comparison_html \
   --samples lalsim_html/pesummary/samples/posterior_samples.h5 \
-  --samples gwsurr_html/pesummary/samples/posterior_samples.h5 \
-  --labels LALSim GWSurr \
+            gwsurr_html/pesummary/samples/posterior_samples.h5 \
+            gwsurr_mem/pesummary/samples/posterior_samples.h5 \

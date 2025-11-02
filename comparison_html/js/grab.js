@@ -107,6 +107,9 @@ function grab_html(param, label="None") {
         if ( param == "GWSurr" ) {
             approx = "None" 
         }
+        if ( param == "NRHybSur3dq8_mem" ) {
+            approx = "None" 
+        }
  
         if ( approx == "Comparison" && param == "Comparison" ) {
             approx = "None"
